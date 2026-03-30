@@ -27,7 +27,7 @@ Orchestrated with Airflow, served via FastAPI, visualized with Streamlit.
 **Tech**: Python, BERTopic, spaCy, Airflow, MLflow, Docker, GitHub Actions  
 [Repository](https://github.com/AugustAllYear/Trendscape_Analysis_for_Partnership_Development)
 
-### Marketing Campaign Optimizer
+### Propensity-Based_Audience_Optimization
 Predictive model (Random Forest / XGBoost) to target the top 30% of customers most likely to open emails, increasing reach by 25% while maintaining send volume. A/B tested with automated retraining pipeline.  
 **Tech**: scikit-learn, XGBoost, MLflow, PyCaret, pandas  
 [Repository](https://github.com/AugustAllYear/marketing-campaign-optimizer)
