@@ -10,13 +10,15 @@ Building production‑ready pipelines and turning data into actionable insights.
 ## Technical Skills
 
 - **Languages**: Python, SQL, Java
-- **Data Science & ML**: Pandas, NumPy, scikit‑learn, XGBoost, PyCaret, BERTopic, spaCy, Transformers, NLTK
+- **Data Science & ML**: Pandas, NumPy, scikit‑learn, XGBoost, PyCaret, BERTopic, spaCy, Transformers, NLTK, SHAP
+- **Deep Learning**: PyTorch, TensorFlow, Keras, Autoencoders
 - **Big Data**: PySpark, Hadoop, SparkML, SparkDL
 - **Orchestration & MLOps**: Apache Airflow, MLflow, Docker, GitHub Actions
 - **Cloud**: AWS (S3, EC2, Lambda), Azure Data Factory, Azure Databricks
 - **Databases**: PostgreSQL, Redis, SQLite
 - **APIs & Visualization**: FastAPI, Streamlit, Plotly, Matplotlib, Seaborn
-- **Other**: BeautifulSoup, Requests, statsmodels, Keras, PyTorch, TensorFlow, horovod, Agile Methodologies, Git, Jupyter Notebook
+- **Testing & CI/CD**: pytest, flake8, GitHub Actions
+- **Other**: BeautifulSoup, Requests, statsmodels, horovod, Agile Methodologies, Git, Jupyter Notebook, joblib, PyYAML
 
 ---
 
@@ -26,6 +28,11 @@ Building production‑ready pipelines and turning data into actionable insights.
 Production pipeline that ingests daily news and Reddit posts, detects emerging trends using BERTopic, and generates partnership recommendations. Orchestrated with Airflow, served via FastAPI, visualized with Streamlit.  
 **Tech**: Python, BERTopic, spaCy, Airflow, MLflow, Docker, GitHub Actions  
 [Repository](https://github.com/AugustAllYear/Trendscape_Analysis_for_Partnership_Development)
+
+### Sentinel_AI – Real‑Time Fraud Detection Pipeline
+End‑to‑end machine learning system for transaction fraud detection, featuring both Random Forest and deep learning autoencoder models. Includes automated retraining, drift monitoring, SHAP explainability, and a Streamlit dashboard. Deployed with CI/CD (GitHub Actions) and MLflow tracking.
+Tech: Python, scikit‑learn, PyTorch, SHAP, MLflow, Docker, GitHub Actions, Streamlit, pandas, numpy, seaborn, matplotlib
+[Repository](https://github.com/AugustAllYear/Sentinel_AI)
 
 ### Propensity‑Based Audience Optimization
 Developed a predictive model (Random Forest / XGBoost) to identify the top 30% of customers most likely to open marketing emails. The model increased reach by 25% while maintaining send volume, validated through A/B testing and an automated retraining pipeline.  
