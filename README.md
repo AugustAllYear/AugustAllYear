@@ -18,7 +18,7 @@ Building production‑ready pipelines and turning data into actionable insights.
 - **Databases**: PostgreSQL, Redis, SQLite
 - **APIs & Visualization**: FastAPI, Uvicorn, Streamlit, Plotly, Matplotlib, Seaborn
 - **Testing & CI/CD**: pytest, flake8, GitHub Actions
-- **Other**: BeautifulSoup, Requests, statsmodels, scipy, horovod, Agile Methodologies, Git, Jupyter Notebook, joblib, PyYAML
+- **Other**: BeautifulSoup, Requests, statsmodels, scipy, horovod,  Git, Jupyter Notebook, joblib, PyYAML
 
 ---
 
