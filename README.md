@@ -16,9 +16,9 @@ Building production‑ready pipelines and turning data into actionable insights.
 - **Orchestration & MLOps**: Apache Airflow, MLflow, Docker, GitHub Actions
 - **Cloud**: AWS (S3, EC2, Lambda), Azure Data Factory, Azure Databricks
 - **Databases**: PostgreSQL, Redis, SQLite
-- **APIs & Visualization**: FastAPI, Streamlit, Plotly, Matplotlib, Seaborn
+- **APIs & Visualization**: FastAPI, Uvicorn, Streamlit, Plotly, Matplotlib, Seaborn
 - **Testing & CI/CD**: pytest, flake8, GitHub Actions
-- **Other**: BeautifulSoup, Requests, statsmodels, horovod, Agile Methodologies, Git, Jupyter Notebook, joblib, PyYAML
+- **Other**: BeautifulSoup, Requests, statsmodels, scipy, horovod, Agile Methodologies, Git, Jupyter Notebook, joblib, PyYAML
 
 ---
 
@@ -35,8 +35,8 @@ Tech: Python, scikit‑learn, PyTorch, SHAP, MLflow, Docker, GitHub Actions, Str
 [Repository](https://github.com/AugustAllYear/Sentinel_AI)
 
 ### Propensity‑Based Audience Optimization
-Developed a predictive model (Random Forest / XGBoost) to identify the top 30% of customers most likely to open marketing emails. The model increased reach by 25% while maintaining send volume, validated through A/B testing and an automated retraining pipeline.  
-**Tech**: scikit‑learn, XGBoost, MLflow, pandas, matplotlib, seaborn  
+Developed a predictive model (Random Forest / XGBoost) to identify the top 30% of customers most likely to open marketing emails. The model increased reach by 25% while maintaining send volume, validated through A/B testing and an automated retraining pipeline. Included hyperparameter tuning (GridSearchCV), MLflow tracking, and a six‑month simulation.  
+**Tech**: scikit‑learn, XGBoost, MLflow, pandas, matplotlib, seaborn, SHAP, FastAPI, Streamlit, GitHub Actions
 [Repository](https://github.com/AugustAllYear/Propensity-Based_Audience_Optimization)
 
 ### Instasight – Multi‑Agent Instagram Intelligence
