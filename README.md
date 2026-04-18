@@ -75,11 +75,9 @@ Built a multi‑agent system (Google ADK) that ingests Instagram data via CSV or
 
 ---
 
-## GitHub Statistics
+## GitHub 
 
 [![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustAllYear&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustAllYear&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
