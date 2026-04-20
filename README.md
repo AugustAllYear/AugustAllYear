@@ -79,7 +79,7 @@ Built a multi‑agent system (Google ADK) that ingests Instagram data via CSV or
 
 <p align="center">
   <img src="https://github-readme-stats-3ypm.vercel.app/api?username=AugustAllYear&show_icons=true&theme=default" height="170" />
-  <img src="https://github-readme-stats-3ypm.vercel.app/api/top-langs?username=AugustAllYear&layout=compact&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats-3ypm.vercel.app/api/top-langs?username=AugustAllYear&layout=compact&size_weight=0.5&count_weight=0.5" />
 </p>
 
 
